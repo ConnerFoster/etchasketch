@@ -1,0 +1,19 @@
+#grid 
+{
+    display: flex;
+    flex-wrap: wrap;
+    /*grid-template-columns: 10% 10% 10% 10%;
+    height: 40em;*/
+    
+    max-width: 640px;
+    margin: auto;
+}
+.squares {
+    height: 38px;
+    width: 38px;
+    border: 1px solid black;
+} 
+
+.squares:hover{
+    
+}
