@@ -17,6 +17,9 @@ body {
     border: 1px solid black;
     transform: scale(.85);
     
+    
+    
+    
    
 }
 .squares {
@@ -30,7 +33,9 @@ body {
     background-color: black;
 }
 #buttons {
-    padding-left: 48%;
+    /*padding-left: 48%;*/
+    transform: scale(1.1);
+    text-align: center;
 }
 h1 {
     font-family: 'Righteous', cursive;
@@ -39,6 +44,6 @@ h1 {
     
 }
 #top {
-    margin-left: 42%;
-    /*margin-top: 2%;*/
+   /* padding-left: 40.5%;*/
+   text-align:center;
 }
